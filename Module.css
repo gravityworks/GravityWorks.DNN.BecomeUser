@@ -1,0 +1,15 @@
+﻿#CurrentUser {
+	}
+
+hr {
+	padding:4px 0;
+}
+
+#CurrentUser .greybox span {
+	width:120px;
+	margin:0 10px 0 0;
+}
+
+#CurrentUser .greybox input {
+	margin:0 8px 0 0;
+}
